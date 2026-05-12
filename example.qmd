@@ -12,3 +12,11 @@ This is the example Quarto document for Assignment 2.
 ```{r}
 summary(penguins)
 ```
+
+### Analysis
+
+This section was added on testbranch.
+
+```{r}
+plot(cars)
+```
