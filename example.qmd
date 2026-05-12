@@ -1,0 +1,14 @@
+---
+title: "ETC5513 Assignment 2"
+author: "---"
+format: html
+editor: visual
+---
+
+## Git and GitHub Guide
+
+This is the example Quarto document for Assignment 2.
+
+```{r}
+summary(penguins)
+```
