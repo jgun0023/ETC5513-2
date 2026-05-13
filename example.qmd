@@ -7,8 +7,20 @@ editor: visual
 
 ## Git and GitHub Guide
 
+<<<<<<< HEAD
 This is the example Quarto document for Assignment 2, edited on the main branch.
+=======
+Example Quarto document for Assignment 2 - TESTBRANCH VERSION.
+>>>>>>> testbranch
 
 ```{r}
 summary(penguins)
+```
+
+### Analysis
+
+This section was added on testbranch.
+
+```{r}
+plot(cars)
 ```
