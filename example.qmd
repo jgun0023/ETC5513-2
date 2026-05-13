@@ -7,7 +7,7 @@ editor: visual
 
 ## Git and GitHub Guide
 
-This is the example Quarto document for Assignment 2.
+Example Quarto document for Assignment 2 - TESTBRANCH VERSION.
 
 ```{r}
 summary(penguins)
