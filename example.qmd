@@ -1,17 +1,13 @@
 ---
 title: "ETC5513 Assignment 2"
-author: "---"
+author: "Jacqueline Gunawan"
 format: html
 editor: visual
 ---
 
 ## Git and GitHub Guide
 
-<<<<<<< HEAD
-This is the example Quarto document for Assignment 2, edited on the main branch.
-=======
-Example Quarto document for Assignment 2 - TESTBRANCH VERSION.
->>>>>>> testbranch
+This is the example Quarto document for Assignment 2, edited on the main branch and merged with testbranch.
 
 ```{r}
 summary(penguins)
